@@ -1,4 +1,5 @@
-﻿**#Delete Unused File Automatically** 
+**#Delete Unused File Automatically** 
+
 Currently my computer contain a certain amouunt of unused file that I would to delete.
 since these location are bound to get fill up again then I want to make it an automatic process.
 I will be using system.IO Directory , path , file to complete this task
