@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\DeleteUnusedFileAutomatically\DeleteUnusedFileAutomatically\bin\Debug\DeleteUnusedFileAutomatically.exe.config
+C:\Users\HP\source\repos\DeleteUnusedFileAutomatically\DeleteUnusedFileAutomatically\bin\Debug\DeleteUnusedFileAutomatically.exe
+C:\Users\HP\source\repos\DeleteUnusedFileAutomatically\DeleteUnusedFileAutomatically\bin\Debug\DeleteUnusedFileAutomatically.pdb
+C:\Users\HP\source\repos\DeleteUnusedFileAutomatically\DeleteUnusedFileAutomatically\obj\Debug\DeleteUnusedFileAutomatically.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\DeleteUnusedFileAutomatically\DeleteUnusedFileAutomatically\obj\Debug\DeleteUnusedFileAutomatically.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\DeleteUnusedFileAutomatically\DeleteUnusedFileAutomatically\obj\Debug\DeleteUnusedFileAutomatically.exe
+C:\Users\HP\source\repos\DeleteUnusedFileAutomatically\DeleteUnusedFileAutomatically\obj\Debug\DeleteUnusedFileAutomatically.pdb
