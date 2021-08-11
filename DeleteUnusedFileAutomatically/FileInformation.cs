@@ -21,10 +21,7 @@ namespace DeleteUnusedFileAutomatically
             this.dir = dir;
             this.size = size;
         }
-        public int ConvertSize()
-        {
-            throw new NotImplementedException();
-        }
+      
         public override string ToString()
         {
             string result = $"Name: {name}, location: {dir}, size: {size}\n";

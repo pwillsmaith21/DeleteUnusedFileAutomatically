@@ -13,6 +13,7 @@ namespace DeleteUnusedFileAutomatically
             string path = @"C:\Users\HP\Downloads\FATE.The.Cursed.King";
             FileAccess fileAccess = new FileAccess(path);
             fileAccess.DeleteFiles();
+            Console.WriteLine("Done");
             Console.ReadLine();
 
         }

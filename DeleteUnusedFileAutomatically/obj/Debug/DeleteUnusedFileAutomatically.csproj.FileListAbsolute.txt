@@ -5,3 +5,12 @@ C:\Users\HP\source\repos\DeleteUnusedFileAutomatically\DeleteUnusedFileAutomatic
 C:\Users\HP\source\repos\DeleteUnusedFileAutomatically\DeleteUnusedFileAutomatically\obj\Debug\DeleteUnusedFileAutomatically.csproj.CoreCompileInputs.cache
 C:\Users\HP\source\repos\DeleteUnusedFileAutomatically\DeleteUnusedFileAutomatically\obj\Debug\DeleteUnusedFileAutomatically.exe
 C:\Users\HP\source\repos\DeleteUnusedFileAutomatically\DeleteUnusedFileAutomatically\obj\Debug\DeleteUnusedFileAutomatically.pdb
+C:\Users\HP\source\repos\DeleteUnusedFileAutomatically\DeleteUnusedFileAutomatically\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\source\repos\DeleteUnusedFileAutomatically\DeleteUnusedFileAutomatically\bin\Debug\System.Security.AccessControl.dll
+C:\Users\HP\source\repos\DeleteUnusedFileAutomatically\DeleteUnusedFileAutomatically\bin\Debug\System.Security.Permissions.dll
+C:\Users\HP\source\repos\DeleteUnusedFileAutomatically\DeleteUnusedFileAutomatically\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\HP\source\repos\DeleteUnusedFileAutomatically\DeleteUnusedFileAutomatically\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\HP\source\repos\DeleteUnusedFileAutomatically\DeleteUnusedFileAutomatically\bin\Debug\System.Security.AccessControl.xml
+C:\Users\HP\source\repos\DeleteUnusedFileAutomatically\DeleteUnusedFileAutomatically\bin\Debug\System.Security.Permissions.xml
+C:\Users\HP\source\repos\DeleteUnusedFileAutomatically\DeleteUnusedFileAutomatically\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\HP\source\repos\DeleteUnusedFileAutomatically\DeleteUnusedFileAutomatically\obj\Debug\DeleteUnusedFileAutomatically.csproj.CopyComplete
